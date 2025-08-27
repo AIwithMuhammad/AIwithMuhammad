@@ -16,7 +16,7 @@ This repo is my **profile README**, a hub where you can track what I’m working
 
 ## 📖 My Learning Log  
 📝 Check out my repo: [ai-learning-log](https://github.com/AIwithMuhammad/ai-learning-log)  
-That’s where I push daily notes, Jupyter notebooks, and mini-projects — think of it as my XP grind log.  
+That’s where I push daily notes, Colab notebooks, and mini-projects — think of it as my XP grind log.  
 
 ---
 
